@@ -1,6 +1,6 @@
 # SinnerSwap - A Decentralized Dex on TON
 
-Hipo is a secure and decentralized platform that allows you to trade and earn different Token on Ton DeFi ecosystem. Swap any amount of TON and get reward in $SIN.
+Sinnerswap is a secure and decentralized platform that allows you to trade and earn different Token on Ton DeFi ecosystem. Swap any amount of TON and get reward in $SIN.
 
 ## Getting Started
 
